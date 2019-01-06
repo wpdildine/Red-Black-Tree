@@ -1,2 +1,2 @@
-# Simple Read Black Tree Demo
+# Simple Red Black Tree Demo
 Written in typescript
