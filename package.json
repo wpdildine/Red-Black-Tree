@@ -1,0 +1,23 @@
+{
+  "name": "huffman_codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node .",
+    "watch:build": "tsc --watch",
+    "watch:run": "nodemon 'index.js' --watch './'",
+    "inspect": "node --inspect . "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1",
+    "typescript": "^2.5.3"
+  },
+  "dependencies": {
+    "@types/node": "^8.0.32"
+  }
+}
